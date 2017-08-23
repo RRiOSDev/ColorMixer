@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EC8EBDD9049F1825CB94153E2090716CDC8F9CD6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC8EBDD9049F1825CB94153E2090716CDC8F9CD6" : 9223372036854775807,
+    "C4A97974195067EAA64A45599E308CB05FE0D9D4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "83EB00DD-F36D-48DF-A1B2-C21D22442BFB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC8EBDD9049F1825CB94153E2090716CDC8F9CD6" : "ColorMixer\/",
+    "C4A97974195067EAA64A45599E308CB05FE0D9D4" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ColorMixer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ColorMixer\/ColorMixer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RRiOSDev\/iOS-PersistenceCoreData.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4A97974195067EAA64A45599E308CB05FE0D9D4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RRiOSDev\/ColorMixer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC8EBDD9049F1825CB94153E2090716CDC8F9CD6"
+    }
+  ]
+}
